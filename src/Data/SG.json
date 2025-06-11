@@ -1,0 +1,62 @@
+[
+	{
+		"amount": 50000,
+		"duration": 15,
+		"rate": 3.52
+	},
+	{
+		"amount": 100000,
+		"duration": 15,
+		"rate": 3.61
+	},
+	{
+		"amount": 200000,
+		"duration": 15,
+		"rate": 3.75
+	},
+	{
+		"amount": 500000,
+		"duration": 15,
+		"rate": 3.98
+	},
+	{
+		"amount": 50000,
+		"duration": 20,
+		"rate": 3.18
+	},
+	{
+		"amount": 100000,
+		"duration": 20,
+		"rate": 3.22
+	},
+	{
+		"amount": 200000,
+		"duration": 20,
+		"rate": 3.42
+	},
+	{
+		"amount": 500000,
+		"duration": 20,
+		"rate": 3.62
+	},
+	{
+		"amount": 50000,
+		"duration": 25,
+		"rate": 4.12
+	},
+	{
+		"amount": 100000,
+		"duration": 25,
+		"rate": 4.22
+	},
+	{
+		"amount": 200000,
+		"duration": 25,
+		"rate": 4.40
+	},
+	{
+		"amount": 500000,
+		"duration": 25,
+		"rate": 4.55
+	},
+]

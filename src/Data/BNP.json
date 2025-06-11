@@ -1,0 +1,62 @@
+[
+	{
+		"montant": 50000,
+		"duree": 15,
+		"taux": 3.51
+	},
+	{
+		"montant": 100000,
+		"duree": 15,
+		"taux": 3.62
+	},
+	{
+		"montant": 200000,
+		"duree": 15,
+		"taux": 3.77
+	},
+	{
+		"montant": 500000,
+		"duree": 15,
+		"taux": 3.95
+	},
+	{
+		"montant": 50000,
+		"duree": 20,
+		"taux": 3.15
+	},
+	{
+		"montant": 100000,
+		"duree": 20,
+		"taux": 3.26
+	},
+	{
+		"montant": 200000,
+		"duree": 20,
+		"taux": 3.47
+	},
+	{
+		"montant": 500000,
+		"duree": 20,
+		"taux": 3.68
+	},
+	{
+		"montant": 50000,
+		"duree": 25,
+		"taux": 4.18
+	},
+	{
+		"montant": 100000,
+		"duree": 25,
+		"taux": 4.28
+	},
+	{
+		"montant": 200000,
+		"duree": 25,
+		"taux": 4.42
+	},
+	{
+		"montant": 500000,
+		"duree": 25,
+		"taux": 4.56
+	},
+]

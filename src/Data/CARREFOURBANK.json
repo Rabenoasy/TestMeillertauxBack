@@ -1,0 +1,62 @@
+[
+	{
+		"montant_pret": 50000,
+		"duree_pret": 15,
+		"taux_pret": 3.41
+	},
+	{
+		"montant_pret": 100000,
+		"duree_pret": 15,
+		"taux_pret": 3.50
+	},
+	{
+		"montant_pret": 200000,
+		"duree_pret": 15,
+		"taux_pret": 3.66
+	},
+	{
+		"montant_pret": 500000,
+		"duree_pret": 15,
+		"taux_pret": 3.54
+	},
+	{
+		"montant_pret": 50000,
+		"duree_pret": 20,
+		"taux_pret": 3.77
+	},
+	{
+		"montant_pret": 100000,
+		"duree_pret": 20,
+		"taux_pret": 3.88
+	},
+	{
+		"montant_pret": 200000,
+		"duree_pret": 20,
+		"taux_pret": 3.66
+	},
+	{
+		"montant_pret": 500000,
+		"duree_pret": 20,
+		"taux_pret": 3.45
+	},
+	{
+		"montant_pret": 50000,
+		"duree_pret": 25,
+		"taux_pret": 4.84
+	},
+	{
+		"montant_pret": 100000,
+		"duree_pret": 25,
+		"taux_pret": 4.87
+	},
+	{
+		"montant_pret": 200000,
+		"duree_pret": 25,
+		"taux_pret": 4.66
+	},
+	{
+		"montant_pret": 500000,
+		"duree_pret": 25,
+		"taux_pret": 4.87
+	},
+]
